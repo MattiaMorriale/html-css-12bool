@@ -42,6 +42,10 @@
 
 /* regole flex generiche */
 
+.justify-start{
+    justify-content: start;
+}
+
 .justify-center {
     justify-content: center;
 }
@@ -50,10 +54,24 @@
     justify-content: flex-end;
 }
 
+.justify-spacebw{
+    justify-content: space-between;
+}
 
+.justify-spacear{
+    justify-content: space-around;
+}
+
+.align-start{
+    align-items: start;
+}
 
 .align-center {
     align-items: center;
+}
+
+.align-end{
+    align-items: end;
 }
 
 /* modificatori flex */

@@ -1,0 +1,47 @@
+.container{
+    max-width: 100%;
+
+    padding: 0;
+}
+
+.col{
+    height: 70px;
+
+    background-color: blue;
+
+    border: solid 1px white;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 25px;
+}
+
+.tall-col{
+    height: 140px;
+}
+
+.col-nested{
+    height: 110px;
+
+    background-color: blue;
+
+    border: solid 1px white;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 25px;
+}
+
+.col-in{
+    height: 60px;
+
+    padding: 20px 0;
+
+    background-color: rgb(31, 201, 31);
+
+    border: solid 1px blue;
+}
