@@ -4,6 +4,8 @@ body{
 }
 
 .container{
+    background-color: white;
+
     border-top: 25px solid #F6B93E;
 
     border-left: 25px solid #F6B93E;
@@ -22,15 +24,12 @@ body{
 
     border-bottom: 25px solid #F6B93E;
 
-    margin: auto;
+    margin-top: 550px;
 }
 
 
 .col{
     height: 25px;
-
-    background-color: rgb(255, 255, 255);
-
 }
 
 
