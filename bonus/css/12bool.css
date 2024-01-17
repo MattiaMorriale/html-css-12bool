@@ -9,14 +9,24 @@
 .container {
     max-width: 1170px;
     margin: 0 auto;
-
-    padding: 8px;
 }
 
 .row {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+}
+
+.ml-1{
+    margin-left: 8px;
+}
+
+.ml-2{
+    margin-left: 16px;
+}
+
+.ml-3{
+    margin-left: 24px;
 }
 
 .mt-1{
@@ -30,6 +40,19 @@
 .mt-3{
     margin-top: 24px;
 }
+
+.mr-1{
+    margin-right: 8px;
+}
+
+.mr-2{
+    margin-right: 16px;
+}
+
+.mr-3{
+    margin-right: 24px;
+}
+
 
 .mb-1 {
     margin-bottom: 8px;

@@ -4,7 +4,25 @@ body{
 }
 
 .container{
-    border: 50px solid yellow;
+    border-top: 25px solid #F6B93E;
+
+    border-left: 25px solid #F6B93E;
+
+    border-right: 25px solid yellow;
+
+    border-bottom: 25px solid yellow;
+}
+
+.cont{
+    border-top: 25px solid yellow;
+
+    border-left: 25px solid yellow;
+
+    border-right: 25px solid #F6B93E;
+
+    border-bottom: 25px solid #F6B93E;
+
+    margin: auto;
 }
 
 
